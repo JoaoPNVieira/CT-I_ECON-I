@@ -10,7 +10,7 @@
                 █████████▒▒▒▒█████████                 
                  ████████████████████   
                 Universidade de Aveiro
-# CT-I_ECON-I - Competências Transferiveis - Módulo: Economia I
+# Competências Transferiveis I - Módulo: Economia I
 ___________________________________________________________________________________________________________________________________________________________
 Português: 
 Competências Transferiveis - Módulo: Economia I - Universidade de Aveiro
