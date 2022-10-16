@@ -13,7 +13,7 @@
 # Competências Transferiveis I - Módulo: Economia I
 ___________________________________________________________________________________________________________________________________________________________
 Português: 
-Competências Transferiveis - Módulo: Economia I - Universidade de Aveiro
+Competências Transferiveis - Módulo: Economia I
 
   O material disponibilizado foi desenvolvido no decorrer do módulo "Economia I" da unidade curricular "Competências Transferiveis" da Universidade de Aveiro, 2021/22. 
   
@@ -21,7 +21,7 @@ Competências Transferiveis - Módulo: Economia I - Universidade de Aveiro
 
 ___________________________________________________________________________________________________________________________________________________________
 English: 
-Laboratory of Digital Systems Laboratory - University of Aveiro
+Transferable Skills - Module: Economics I
 
   The material provided was developed during the "Economy I" module of the "Transferable Competencies" course at the University of Aveiro, 2021/22.
   
